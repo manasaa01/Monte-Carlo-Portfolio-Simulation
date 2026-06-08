@@ -1,5 +1,5 @@
 ```markdown
-# Project Title
+
 
 ## Overview
 
@@ -26,12 +26,7 @@ These can be installed using pip:
 pip install numpy pandas matplotlib seaborn
 ```
 
-## Author
+<img width="1010" height="632" alt="image" src="https://github.com/user-attachments/assets/3334bfa5-de71-4da0-a775-a9a7d50505bf" />
 
-[Your Name/Organization Here]
 
-## License
 
-[Specify your license here, e.g., MIT License]
-
-```
